@@ -1,101 +1,59 @@
-<div align="center">
+<img align="center" width="100%" alt="Data Science Banner" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/cdr.gif" />
 
-# Welcome to my digital space.
+## Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Sami Khalfi!
 
-### Data Science • Machine Learning • Innovation
+I am a **Data Science & Knowledge Engineering Student** 🎓 at **ESI (École des Sciences de l'Information)** with a strong foundation in **machine learning**, **computer vision**, and **data engineering**. I'm passionate about solving real-world problems using cutting-edge AI techniques and building scalable data solutions.
 
-![Separator Line](https://capsule-render.vercel.app/api?type=soft&color=000000&height=10)
+Currently, I'm focused on developing innovative projects in **machine learning**, **computer vision**, and **data engineering**, while continuously expanding my knowledge in these domains 🚀.
 
-</div>
+<p>
+<a href="https://www.linkedin.com/in/samikhalfi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="mailto:samikhalfi@esi.ac.ma"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+</p>
 
-## Hello, I'm Sami. 
+## ⚡ Quick Facts
 
-I create intelligent solutions through data science and machine learning. Currently studying at ESI, I blend technical expertise with creative problem-solving to build the future of AI.
+<img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" width="280" />
 
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Sami Khalfi"
-        self.role = "Data Scientist & ML Engineer"
-        self.languages = ["Python", "R", "Java", "PHP"]
-        self.interests = ["Machine Learning", "Computer Vision", 
-                         "Time Series Analysis", "Data Engineering"]
-```
+- 🔭 Currently working on ML/AI projects and data engineering solutions
+- 🌱 Exploring advanced techniques in computer vision and time series analysis
+- 👯 Open to collaborate on data science and ML projects
+- 💼 Previously worked at Indegate Consulting as a Data Engineer
+- 📫 Reach me at: samikhalfi@esi.ac.ma
+- 🏀 Fun fact: I'm a basketball enthusiast and professional esports player!
 
-## Innovation Through Intelligence
+## 🛠️ Tech Stack
 
-I specialize in transforming complex data challenges into elegant solutions. My work spans:
+<p align="center">
+    <!-- Programming Languages -->
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/></code>
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/></code>
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="35" height="35"/></code>
 
-- 🤖 **Machine Learning** • Advanced model development and deployment
-- 👁️ **Computer Vision** • Image processing and deep learning applications
-- 📊 **Data Engineering** • Building robust data pipelines and infrastructure
-- 📈 **Time Series** • Predictive analytics and forecasting
+    <!-- ML/AI Tools -->
+    <code><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35"/></code>
+    <code><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="35" height="35"/></code>
+    <code><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="35" height="35"/></code>
 
-## Featured Creations
+    <!-- Data Engineering -->
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="hadoop" width="35" height="35"/></code>
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="35" height="35"/></code>
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="35" height="35"/></code>
 
-### Stock Trader Master
-*Empowering financial decisions through AI*
-- Sentiment analysis on financial articles using BERT
-- Real-time market trend prediction
-- Advanced NLP pipeline implementation
+    <!-- Cloud -->
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="35" height="35"/></code>
+    <code><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="35" height="35"/></code>
+</p>
 
-### Darna AI
-*Revolutionizing real estate analytics*
-- Recommendation system using PySpark & ALS
-- Automated property analysis
-- Real-time market insights
+## 🚧 Featured Projects
 
-### Viticulture CV
-*AI-powered agricultural innovation*
-- 78.78% accuracy in disease detection
-- 91% accuracy in pest identification
-- Custom ResNet50 & Vision Transformer implementation
+- **Stock Trader Master**: Advanced sentiment analysis on financial articles using NLTK and BERT
+- **Darna AI**: Real estate analysis and recommendation system using PySpark and ALS
+- **Viticulture CV**: Computer vision application for grape disease detection using ResNet50
+- **Fitness Abtal**: Exercise tracking application using computer vision and MediaPipe
+- **Economic ETL**: Real-time stock market data pipeline using Kafka, Spark, and Airflow
 
-## Technical Expertise
+## 📈 GitHub Stats
 
-<div align="center">
-
-| Machine Learning | Data Engineering | Cloud & DevOps |
-|:---------------:|:----------------:|:--------------:|
-| TensorFlow | Apache Spark | AWS |
-| PyTorch | Airflow | GCP |
-| Scikit-learn | MongoDB | Docker |
-| NLTK | Hadoop | FastAPI |
-
-</div>
-
-## Experience & Impact
-
-```mermaid
-graph LR
-    A[Education] --> B[ESI]
-    C[Experience] --> D[Indegate Consulting]
-    D --> E[Data Engineering]
-    E --> F[30% Efficiency Increase]
-```
-
-## Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samikhalfi/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samikhalfi@esi.ac.ma)
-
-</div>
-
-## Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samikhalfi&show_icons=true&theme=default&hide_border=true&bg_color=ffffff00)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samikhalfi&layout=compact&theme=default&hide_border=true&bg_color=ffffff00)
-
-</div>
-
----
-
-<div align="center">
-<sub>Built with ☕️ by Sami Khalfi</sub>
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=samikhalfi&theme=white&&hide_border=true" width='48%' /> <img src="https://github-readme-stats.vercel.app/api?username=samikhalfi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
 
