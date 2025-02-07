@@ -22,38 +22,40 @@ Currently, I'm focused on developing innovative projects in **machine learning**
 - 📫 Reach me at: samikhalfi@esi.ac.ma
 - 🏀 Fun fact: I'm a basketball enthusiast and professional esports player!
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
 
-<p align="center">
-    <!-- Programming Languages -->
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="35" height="35"/></code>
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-    <!-- ML/AI Tools -->
-    <code><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35"/></code>
-    <code><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="35" height="35"/></code>
-    <code><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="35" height="35"/></code>
+### ML/AI
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-    <!-- Data Engineering -->
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="hadoop" width="35" height="35"/></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="35" height="35"/></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="35" height="35"/></code>
+### Data Engineering
+![Apache Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
 
-    <!-- Cloud -->
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="35" height="35"/></code>
-    <code><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="35" height="35"/></code>
-</p>
-
-## 🚧 Featured Projects
-
-- **Stock Trader Master**: Advanced sentiment analysis on financial articles using NLTK and BERT
-- **Darna AI**: Real estate analysis and recommendation system using PySpark and ALS
-- **Viticulture CV**: Computer vision application for grape disease detection using ResNet50
-- **Fitness Abtal**: Exercise tracking application using computer vision and MediaPipe
-- **Economic ETL**: Real-time stock market data pipeline using Kafka, Spark, and Airflow
+### Cloud
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samikhalfi&theme=white&&hide_border=true" width='48%' /> <img src="https://github-readme-stats.vercel.app/api?username=samikhalfi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samikhalfi&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samikhalfi&layout=compact&langs_count=7&theme=default"/>
+</div>
+
+---
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samikhalfi&theme=default" alt="samikhalfi" />
+</div>
+
 
