@@ -14,8 +14,7 @@
 - 🎓 Currently studying at ESI (École des Sciences de l'Information)
 - 🔭 Working on ML/AI projects and data engineering solutions
 - 🌱 Exploring advanced computer vision and time series analysis
-- 💼 Previously Data Engineer at Indegate Consulting
-- 🎮 Pro Esports Player at AS.SALE ESPORT
+- 🎮 Pro Esports Player
 - 🏀 Basketball enthusiast
 
 <!--Profile views-->
