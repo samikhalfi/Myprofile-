@@ -1,61 +1,103 @@
-<img align="center" width="100%" alt="Data Science Banner" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/cdr.gif" />
-
-## Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Sami Khalfi!
-
-I am a **Data Science & Knowledge Engineering Student** 🎓 at **ESI (École des Sciences de l'Information)** with a strong foundation in **machine learning**, **computer vision**, and **data engineering**. I'm passionate about solving real-world problems using cutting-edge AI techniques and building scalable data solutions.
-
-Currently, I'm focused on developing innovative projects in **machine learning**, **computer vision**, and **data engineering**, while continuously expanding my knowledge in these domains 🚀.
-
-<p>
-<a href="https://www.linkedin.com/in/samikhalfi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="mailto:samikhalfi@esi.ac.ma"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<!--Header-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Sami%20Khalfi&fontSize=60&fontAlignY=35&desc=Data%20Science%20|%20ML%20Engineering%20|%20Innovation&descSize=20&descAlignY=55&animation=twinkling"/>
 </p>
 
-## ⚡ Quick Facts
-
-<img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" width="280" />
-
-- 🔭 Currently working on ML/AI projects and data engineering solutions
-- 🌱 Exploring advanced techniques in computer vision and time series analysis
-- 👯 Open to collaborate on data science and ML projects
-- 💼 Previously worked at Indegate Consulting as a Data Engineer
-- 📫 Reach me at: samikhalfi@esi.ac.ma
-- 🏀 Fun fact: I'm a basketball enthusiast and professional esports player!
-
-## 🛠️ Technologies & Tools
-
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-### ML/AI
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-### Data Engineering
-![Apache Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
-
-### Cloud
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-
-## 📈 GitHub Stats
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samikhalfi&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samikhalfi&layout=compact&langs_count=7&theme=default"/>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
----
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ʜᴇʟʟᴏ, ᴡᴏʀʟᴅ!
+
+<p align="left">I am a Data Science & Knowledge Engineering Student with a passion for solving complex problems using AI. I blend technical expertise with creative thinking to build innovative solutions in machine learning and data engineering.</p>
+
+- 🎓 Currently studying at ESI (École des Sciences de l'Information)
+- 🔭 Working on ML/AI projects and data engineering solutions
+- 🌱 Exploring advanced computer vision and time series analysis
+- 💼 Previously Data Engineer at Indegate Consulting
+- 🎮 Pro Esports Player at AS.SALE ESPORT
+- 🏀 Basketball enthusiast
+
+<!--Profile views-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=samikhalfi&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="samikhalfi" />
+</p>
+
+## 🛠️ Tᴇᴄʜ Sᴛᴀᴄᴋ
+
+<table align="center">
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+<br>AWS
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="65" height="65" />
+<br>TensorFlow
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="65" height="65" />
+<br>PyTorch
+</td>
+</tr>
+</table>
+
+## 🚀 Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛs
+
+<table width="100%">
+<tr>
+<td width="50%">
+<h3 align="center">Stock Trader Master</h3>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samikhalfi&theme=default" alt="samikhalfi" />
+<p><strong>Trading Intelligence Platform</strong></p>
+<p>Advanced sentiment analysis using BERT and time series analysis for market prediction</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Viticulture CV</h3>
+<div align="center">
+<p><strong>Agricultural AI Solution</strong></p>
+<p>78.78% accuracy in disease detection and 91% accuracy in pest detection</p>
+</div>
+</td>
+</tr>
+</table>
+
+## 📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs
+
+<table width="100%">
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=samikhalfi&show_icons=true&theme=tokyonight&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&hide_border=true" alt="GitHub Stats" />
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=samikhalfi&theme=tokyonight&background=0,000000,441350&ring=c56a90&fire=ffeb95&currStreakNum=ffffff&hide_border=true" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samikhalfi&bg_color=0,000000,441350&color=ffffff&line=c56a90&point=ffeb95&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
+## 🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samikhalfi/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samikhalfi@esi.ac.ma)
+
+</div>
+
+<!--Footer-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
+</p>
