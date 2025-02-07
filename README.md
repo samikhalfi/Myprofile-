@@ -3,13 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Sami%20Khalfi&fontSize=60&fontAlignY=35&desc=Data%20Science%20|%20ML%20Engineering%20|%20Innovation&descSize=20&descAlignY=55&animation=twinkling"/>
 </p>
 
-<div align="center">
-  <img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
-</div>
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ʜᴇʟʟᴏ, ᴡᴏʀʟᴅ!
 
 <p align="left">I am a Data Science & Knowledge Engineering Student with a passion for solving complex problems using AI. I blend technical expertise with creative thinking to build innovative solutions in machine learning and data engineering.</p>
+<div align="center">
+  <img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
+</div>
 
 - 🎓 Currently studying at ESI (École des Sciences de l'Information)
 - 🔭 Working on ML/AI projects and data engineering solutions
