@@ -45,27 +45,6 @@
 
 </div>
 
-## 🚀 Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛs
-
-<table width="100%">
-<tr>
-<td width="50%">
-<h3 align="center">Stock Trader Master</h3>
-<div align="center">
-<p><strong>Trading Intelligence Platform</strong></p>
-<p>Advanced sentiment analysis using BERT and time series analysis for market prediction</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">Viticulture CV</h3>
-<div align="center">
-<p><strong>Agricultural AI Solution</strong></p>
-<p>78.78% accuracy in disease detection and 91% accuracy in pest detection</p>
-</div>
-</td>
-</tr>
-</table>
-
 ## 📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs
 
 <table width="100%">
@@ -87,7 +66,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samikhalfi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/samikhalfi/](https://www.linkedin.com/in/sami-khalfi-355098290/))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samikhalfi@esi.ac.ma)
 
 </div>
