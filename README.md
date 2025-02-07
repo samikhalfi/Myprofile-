@@ -40,23 +40,6 @@ I am a **Data Science & Knowledge Engineering Student** 🎓 at **ESI (École de
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
-## 🚧 Featured Projects
-
-### Stock Trader Master
-Advanced sentiment analysis on financial articles using NLTK and BERT for market trend prediction.
-
-### Darna AI
-Real estate analysis and recommendation system using PySpark and ALS, with web scraping integration.
-
-### Viticulture CV
-Computer vision application achieving 78.78% accuracy in grape disease detection using ResNet50 and 91% accuracy in pest detection using Vision Transformers.
-
-### Fitness Abtal
-Exercise tracking application using computer vision and MediaPipe for pose detection and form analysis.
-
-### Economic ETL
-Real-time stock market data pipeline using Kafka, Spark, and Airflow with Power BI visualization.
-
 ## 📈 GitHub Stats
 
 <div align="center">
